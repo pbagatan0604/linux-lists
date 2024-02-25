@@ -1,0 +1,10 @@
+date: This command sets the current date and time in the system.
+cal: Displays a formatted calendar for the current month and year.
+whoami: Reveals the username of the currently logged-in user.
+pwd: Short for “Print Working Directory,” it displays the current directory path you’re in
+cd: The “Change Directory” command allows you to navigate through folders.
+mkdir: Creates a new directory (folder).
+cat: Displays the entire content of a specified file
+cp: Copies files or directories from one location to another.
+mv: Moves files or directories to a different location.
+ls: The most frequently used command in Linux, it lists the files and directories in the current or specified folder.
